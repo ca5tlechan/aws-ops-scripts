@@ -1,0 +1,15 @@
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets (NEVER commit)
+.env
+*.pem
+*.key
+*.p12
