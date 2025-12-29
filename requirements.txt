@@ -1,0 +1,3 @@
+# Week1: keep minimal.
+# Week2+ may add boto3 for AWS API calls.
+# boto3==1.*
